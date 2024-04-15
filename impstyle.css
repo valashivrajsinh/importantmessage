@@ -1,0 +1,64 @@
+h1
+{
+    font-size: 70px;
+    text-align: center;
+    color: red;
+}
+
+.h
+{
+    text-align: center;
+    background-image: url("https://wallpapercave.com/wp/wp4652964.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.div1
+{
+    font-size:50px;
+    color: rgb(73, 209, 247);
+}
+
+.div2
+{
+    font-size:50px;
+    color: rgb(13, 125, 223);
+}
+
+.div3
+{
+    font-size:50px;
+    color: rgb(155, 126, 250);
+}
+
+.div4
+{
+    font-size:50px;
+    color: rgb(238, 124, 212);
+}
+.div5
+{
+    font-size:50px;
+    color: rgb(0, 255, 128);
+}
+.div6
+{
+    font-size:50px;
+    color: rgb(255, 251, 0);
+}
+.div7
+{
+    font-size:50px;
+    color: rgb(255, 128, 0);
+}
+.div8
+{
+    font-size:50px;
+    color: rgb(0, 251, 255);
+}
+.div9
+{
+    font-size:50px;
+    color: rgb(195, 0, 255);
+}
